@@ -1,0 +1,1 @@
+Se da lista muchiilor unui graf, sa se afiseze vf izolate ale grafului.
